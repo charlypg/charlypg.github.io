@@ -5,7 +5,7 @@ title: About me
 
 ## Projects
 
-See [Projects](/projets/) page for more detail*
+*See [Projects](/projets/) page for more detail*
 
 - Reinforcement learning methods for the control of a hexapod walker robot
 - Python Library to communicate with ABB Robots through RWS
