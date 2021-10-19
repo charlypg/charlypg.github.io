@@ -4,7 +4,7 @@ title: <!--Charly Pecqueux--Guézénec-->
 subtitle: "Charly Pecqueux--Guézénec"
 ---
 
-Hi ! My name is Charly Pecqueux--Guézénec (just call me Charly). 
+Hi ! My name is Charly Pecqueux--Guézénec. 
 
 I am a **robotics enthousiast** and currently a student at **ENS Paris-Saclay**, in France, in the Electrical Engineering department. 
 
