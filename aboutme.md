@@ -35,19 +35,19 @@ The internship had to be done in telecommuting due to the COVID-19 pandemic.
 
 ### École Normale Supérieure Paris-Saclay 
 
-- **M2 ATSI:**
-- **M2 INTRANET:** 
-- **M1 EEA:**
-- **SAPHIRE Program:**
+#### M2 ATSI
+
+#### M2 INTRANET
+
+#### M1 EEA
+
+#### SAPHIRE Program
 
 ### Lycée Saint-Louis
 
-**CPGE MP**
+#### CPGE MP
 
-**Description:** Intensive preparation in order to enter the *French ”Grandes Ecoles”*
-
-**Fields:** Mathematics & Physics
-
-***TIPE* (Project):** Gröbner bases in commutative algebra and their applications, like the solving the inverse kinematics problem for a robotic arm
-
-**Period:** 2015-2018 (3 years)
+- **Description:** Intensive preparation in order to enter the *French ”Grandes Ecoles”*
+- **Fields:** Mathematics & Physics
+- ***TIPE* (Project):** Gröbner bases in commutative algebra and their applications, like the solving the inverse kinematics problem for a robotic arm
+- **Period:** 2015-2018 (3 years)
