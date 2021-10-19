@@ -39,15 +39,16 @@ The internship had to be done in telecommuting due to the COVID-19 pandemic.
 
 #### M2 ATSI
 
-Allows them to address research topics of a high scientific level in the domains of systems and control, signal and image processing
+Allows to *address research topics* of a *high scientific level* in the domains of *systems and control, signal and image processing*
 
 The master ATSI is one of the training programs in Artificial Intelligence labelled by the *DATAIA Institute*.
 
 *Year* : 2021-2022
 
-- **Fields:** Embedded computing, control, optimization, signal processing, electronics for telecommunications and power electronics
-- **Research project:** Reinforcement learning methods for the control of a hexapod walker robot (see *Projects* section)
-- **Internship:** *Stigmergy & Swarm Robotics, TU Delft, Netherlands* (see *Work Experience* section)
+Systèmes non-linéaires, Optimisation, Estimation, Représentation
+des signaux et codage, Machine Learning, Commande prédictive
+
+**Fields:** Optimization, Estimation, *Machine Learning*, signal representation and sparse coding, nonlinear systems, predictive control
 
 #### M2 INTRANET
 
