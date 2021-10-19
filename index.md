@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: <!--Charly Pecqueux--Guézénec-->
 subtitle: "Charly Pecqueux--Guézénec"
 ---
