@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Projects
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Reinforcement learning methods for the control of a hexapod walker robot
+- Python Library to communicate with ABB Robots through RWS
 
-What else do you need?
+## Work Experience
 
-### My story
+### TU Delft 
+*Research Intern*
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Stigmergy and swarm robotics
+- June-July 2020 (9 weeks)
+
+## Education 
+
+### subtitle
+
+#### subsubtititle
