@@ -2,7 +2,6 @@
 layout: post
 title: A Python interface for Robot Web Services
 tags: [robotics]
-comments: false
 ---
 
 # Abstract
