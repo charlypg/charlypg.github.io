@@ -21,7 +21,7 @@ the parameters of the system and its properties.
 
 **Location:** *TU Delft, Netherlands*
 
-**Period:** June-July 2020 (9 weeks)
+**Period:** June-July 2020 (9 weeks) ; *during M1 EEA*
 
 The internship had to be done in telecommuting due to the COVID-19 pandemic.
 
@@ -31,8 +31,25 @@ The internship had to be done in telecommuting due to the COVID-19 pandemic.
 
 **Location:** *IUT de Cachan, France*
 
-**Period:** Sept-Dec 2020
+**Period:** Sept-Dec 2020 ; *during M1 EEA*
 
 ## Education 
 
-#### École Normale Supérieure Paris-Saclay 
+### École Normale Supérieure Paris-Saclay 
+
+- **M2 ATSI:**
+- **M2 INTRANET:** 
+- **M1 EEA:**
+- **SAPHIRE Program:**
+
+### Lycée Saint-Louis
+
+**CPGE MP**
+
+**Description:** Intensive preparation in order to enter the *French ”Grandes Ecoles”*
+
+**Fields:** Mathematics & Physics
+
+***TIPE* (Project):** Gröbner bases in commutative algebra and their applications, like the solving the inverse kinematics problem for a robotic arm
+
+**Period:** 2015-2018 (3 years)
