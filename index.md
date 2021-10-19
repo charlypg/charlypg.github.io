@@ -6,7 +6,7 @@ subtitle: "Charly Pecqueux--Guézénec"
 
 Hi ! My name is Charly Pecqueux--Guézénec (just call me Charly). 
 
-I am a **robotics enthousiast** and currently a student at French university **ENS Paris-Saclay** in the Electrical Engineering department. 
+I am a **robotics enthousiast** and currently a student at **ENS Paris-Saclay**, in France, in the Electrical Engineering department. 
 
 This year, I am enrolled in the *M2 ATSI of Université Paris-Saclay* in which I study control and signal processing for research. 
 
