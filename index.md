@@ -23,5 +23,5 @@ This year, I am enrolled in the *M2 ATSI of Université Paris-Saclay* in which I
 
 I have made several projects (*see [Projects](/projets/) page for more detail*). 
 
-- Reinforcement learning methods for the control of a hexapod walking robot 
+- Reinforcement Learning methods for the control of a hexapod walking robot 
 - Python Library to communicate with ABB Robots through RWS 
