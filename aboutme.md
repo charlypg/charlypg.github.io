@@ -45,9 +45,6 @@ The master ATSI is one of the training programs in Artificial Intelligence label
 
 *Year* : 2021-2022
 
-Systèmes non-linéaires, Optimisation, Estimation, Représentation
-des signaux et codage, Machine Learning, Commande prédictive
-
 **Fields:** Optimization, Estimation, *Machine Learning*, signal representation and sparse coding, nonlinear systems, predictive control
 
 #### M2 INTRANET
