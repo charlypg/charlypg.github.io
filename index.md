@@ -8,5 +8,13 @@ Hi ! My name is Charly Pecqueux--Guézénec (just call me Charly). I am a **robo
 
 # Research interests
 
+- Control for robotics
+- *Machine Learning* for robotics
+- Applied Mathematics 
+- Signal processing
+
 # Projects 
 
+I have made several projects (see Projects page for more detail) :
+
+- Reinforcement learning methods for the control of a hexapod walker robot
