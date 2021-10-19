@@ -1,0 +1,7 @@
+---
+layout: post
+title: Test post
+subtitle: Each post also has a subtitle
+---
+
+## post
