@@ -39,30 +39,42 @@ The internship had to be done in telecommuting due to the COVID-19 pandemic.
 
 #### M2 ATSI
 
+Allows them to address research topics of a high scientific level in the domains of systems and control, signal and image processing
 
+The master ATSI is one of the training programs in Artificial Intelligence labelled by the *DATAIA Institute*.
+
+*Year* : 2021-2022
+
+- **Fields:** Embedded computing, control, optimization, signal processing, electronics for telecommunications and power electronics
+- **Research project:** Reinforcement learning methods for the control of a hexapod walker robot (see *Projects* section)
+- **Internship:** *Stigmergy & Swarm Robotics, TU Delft, Netherlands* (see *Work Experience* section)
 
 #### M2 INTRANET
 
-Computer science, signal processing, control, electronics, telecom‐
-munications
+***Agrégation de Sciences Industrielles de l'Ingénieur option Ingénierie Informatique (SII II)***
+
+*Year* : 2020-2021
+
+- **Fields:** Computer science, Industrial data processing, signal processing, control, telecommunications 
+- **Project:** Python Library to communicate with ABB Robots through RWS
 
 #### M1 EEA
 
-Master degree in electrical engineering and industrial computer program‐
-ming
-• Fields : Embedded computing, control, optimisation, signal processing, elec‐
-tronics for telecommunications and power electronics.
-• Research : Learning Locomotion for a Hexapod Robot. This project implied
-reinforcement learning, embedded computing, control and optimisation. The
-goal was to make our robot learn a locomotion gait. It also lead to the imple‐
-mentation of a functionnal simulator, using Gym & PyBullet.
-• Internship : Stigmergy & Swarm Robotics, TU Delft, Netherlands
+*Master degree in Electrical Engineering and Control*
+
+*Year* : 2019-2020
+
+- **Fields:** Embedded computing, control, optimization, signal processing, electronics for telecommunications and power electronics
+- **Research project:** Reinforcement learning methods for the control of a hexapod walker robot (see *Projects* section)
+- **Internship:** *Stigmergy & Swarm Robotics, TU Delft, Netherlands* (see *Work Experience* section)
 
 #### SAPHIRE Program
 
 *Applied Sciences in Physics and Engineering for Research and Teaching*
 
 *Multidisciplinary program* : Electrical, Mechanical & Civil Engineering
+
+*Year* : 2018-2019
 
 - **Fields:** Applied mathematics, signal processing, mecatronics,electronics, material sciences, quantum physics, computer science
 - **SAPHIRE project:** Autonomous Urban Orchestra (*embedded systems and energy conversion*)
