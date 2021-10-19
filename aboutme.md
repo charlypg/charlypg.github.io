@@ -10,7 +10,9 @@ title: About me
 
 ## Work Experience
 
-### Research Internship: Stigmergy and Swarm Robotics
+### Stigmergy and Swarm Robotics
+
+**Research Internship**
 
 **Description:** The aim of the intership was to study the convergence of ant colony multi-agent swarms and
 the properties veriﬁed by the distribution of agents and weights in the associated graph, such as the
