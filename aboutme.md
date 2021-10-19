@@ -39,11 +39,34 @@ The internship had to be done in telecommuting due to the COVID-19 pandemic.
 
 #### M2 ATSI
 
+
+
 #### M2 INTRANET
+
+Computer science, signal processing, control, electronics, telecom‐
+munications
 
 #### M1 EEA
 
+Master degree in electrical engineering and industrial computer program‐
+ming
+• Fields : Embedded computing, control, optimisation, signal processing, elec‐
+tronics for telecommunications and power electronics.
+• Research : Learning Locomotion for a Hexapod Robot. This project implied
+reinforcement learning, embedded computing, control and optimisation. The
+goal was to make our robot learn a locomotion gait. It also lead to the imple‐
+mentation of a functionnal simulator, using Gym & PyBullet.
+• Internship : Stigmergy & Swarm Robotics, TU Delft, Netherlands
+
 #### SAPHIRE Program
+
+*Applied Sciences in Physics and Engineering for Research and Teaching*
+
+*Multidisciplinary program* : Electrical, Mechanical & Civil Engineering
+
+- **Fields:** Applied mathematics, signal processing, mecatronics,electronics, material sciences, quantum physics, computer science
+- **SAPHIRE project:** Autonomous Urban Orchestra (*embedded systems and energy conversion*)
+- **Optimisation project:** *Artificial Potential Fields for Robot Path Planning*
 
 ### Lycée Saint-Louis
 
