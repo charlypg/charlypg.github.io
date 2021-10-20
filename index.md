@@ -15,7 +15,7 @@ This year, I am enrolled in the *M2 ATSI of Université Paris-Saclay* in which I
 ## Research interests
 
 - Control for robotics
-- *Machine Learning* for robotic control
+- *Learning-based control* 
 - Applied Mathematics 
 - Signal processing
 
