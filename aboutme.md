@@ -15,7 +15,7 @@ In 2021, I passed the French ***Agrégation** de Sciences Industrielles de l'Ing
 
 During the year 2019-2020, I pursued a master degree in electrical engineering (*M1 E3A André Ampère*) at *ENS Paris-Saclay*, covering fields like embedded computing, signal processing, nonlinear control, electronics for telecommunications or power electronics. This year, I realised with a collegue a research project on *reinforcement learning methods for the control of a hexapod walker robot*. I have also realised a reasearch internship, in telecommuting with TU Delft, in the domain of *Swarm Robotics*. 
 
-In 2018, I entered ENS Paris-Saclay in the *SAPHIRE multidisciplinary program* (Electrical, Mechanical & Civil Engineering), which covers various fields : 
+In 2018, I entered ENS Paris-Saclay in the *SAPHIRE multidisciplinary program* (Electrical, Mechanical & Civil Engineering), after three years of intensive preparation in mathematics and physics at *Lycée Saint-Louis* in Paris. The program covered various fields : 
 applied mathematics, mecatronics, material sciences, quantum physics, computer science, etc.
 
 
