@@ -2,6 +2,9 @@
 layout: post
 title: A Python interface for Robot Web Services
 tags: [robotics]
+cover-img: /assets/img/yumi_face.jpg
+thumbnail-img: /assets/img/yumi_hand.jpg
+share-img: /assets/img/yumi_face.jpg
 ---
 
 # In short
