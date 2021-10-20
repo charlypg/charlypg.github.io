@@ -3,6 +3,22 @@ layout: page
 title: About me
 ---
 
+## Brief Biography
+
+I am a final year student at **ENS Paris-Saclay**, in the department of electrical engineering (EEA). 
+
+I am currently pursuing the **ATSI master** degree of **Université Paris-Saclay** in the domains of *systems and control, signal and image processing*, in order to address *research topics* in these domains. 
+
+Then I would like to continue with a *PhD* in the domain of *learning-based control for robotics*. 
+
+In 2021, I passed the French ***Agrégation** de Sciences Industrielles de l'Ingénieur option Ingénierie Informatique (SII option II)*, which will allow me to teach in France : from computer science and Industrial data processing to control. 
+
+During the year 2019-2020, I pursued a master degree in electrical engineering (*M1 E3A André Ampère*) at *ENS Paris-Saclay*, covering fields like embedded computing, signal processing, nonlinear control, electronics for telecommunications or power electronics. This year, I realised with a collegue a research project on *reinforcement learning methods for the control of a hexapod walker robot*. I have also realised a reasearch internship, in telecommuting with TU Delft, in the domain of *Swarm Robotics*. 
+
+In 2018, I entered ENS Paris-Saclay in the *SAPHIRE multidisciplinary program* (Electrical, Mechanical & Civil Engineering), which covers various fields : 
+applied mathematics, mecatronics, material sciences, quantum physics, computer science, etc.
+
+
 ## Projects
 
 *See [Projects](/projets/) page for more detail.*
@@ -34,57 +50,3 @@ The internship had to be done in telecommuting due to the COVID-19 pandemic.
 **Location:** *IUT de Cachan, France*
 
 **Period:** Sept-Dec 2020 ; *during M1 EEA*
-
-## Education 
-
-### École Normale Supérieure Paris-Saclay 
-
-#### M2 ATSI
-
-Allows to *address research topics* of a *high scientific level* in the domains of *systems and control, signal and image processing*
-
-The master ATSI is one of the training programs in Artificial Intelligence labelled by the *DATAIA Institute*.
-
-*Year* : 2021-2022
-
-**Fields:** Optimization, Estimation, *Machine Learning*, signal representation and sparse coding, nonlinear systems, predictive control
-
-#### M2 INTRANET
-
-***Agrégation de SII option II***
-
-*Year* : 2020-2021
-
-**Fields:** Computer science, Industrial data processing, signal processing, control, telecommunications 
-**Project:** Python Library to communicate with ABB Robots through RWS
-
-#### M1 EEA
-
-*Master degree in Electrical Engineering and Control*
-
-*Year* : 2019-2020
-
-- **Fields:** Embedded computing, control, optimization, signal processing, electronics for telecommunications and power electronics
-- **Research project:** Reinforcement learning methods for the control of a hexapod walker robot (see *Projects* section)
-- **Internship:** *Stigmergy & Swarm Robotics, TU Delft, Netherlands* (see *Work Experience* section)
-
-#### SAPHIRE Program
-
-*Applied Sciences in Physics and Engineering for Research and Teaching*
-
-*Multidisciplinary program* : Electrical, Mechanical & Civil Engineering
-
-*Year* : 2018-2019
-
-- **Fields:** Applied mathematics, signal processing, mecatronics,electronics, material sciences, quantum physics, computer science
-- **SAPHIRE project:** Autonomous Urban Orchestra (*embedded systems and energy conversion*)
-- **Optimisation project:** *Artificial Potential Fields for Robot Path Planning*
-
-### Lycée Saint-Louis
-
-#### CPGE MP
-
-- **Description:** Intensive preparation in order to enter the *French ”Grandes Ecoles”*
-- **Fields:** Mathematics & Physics
-- ***TIPE* (Project):** Gröbner bases in commutative algebra and their applications, like the solving the inverse kinematics problem for a robotic arm
-- **Period:** 2015-2018 (3 years)
