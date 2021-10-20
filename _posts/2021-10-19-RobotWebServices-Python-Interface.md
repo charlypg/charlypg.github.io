@@ -2,12 +2,12 @@
 layout: post
 title: A Python interface for Robot Web Services
 tags: [robotics]
-cover-img: /assets/img/yumi_face.jpg
 thumbnail-img: /assets/img/yumi_hand.jpg
-share-img: /assets/img/yumi_face.jpg
 ---
 
 # In short
+
+![Crepe](/assets/img/yumi_face.jpg)
 
 [RobotWebServices-Python-Interface](https://github.com/charlypg/RobotWebServices-Python-Interface) is a Python library which implements a Robot Web Services (RWS) client for ABB Robots in Python. 
 
