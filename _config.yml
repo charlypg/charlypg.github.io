@@ -16,7 +16,8 @@ author: Charly Pecqueux--Guézénec
 navbar-links:
   Research: "research"
   Projects: "projets"
-  About Me: "aboutme"
+  # About Me: "aboutme"
+
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
