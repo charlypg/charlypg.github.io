@@ -14,6 +14,7 @@ author: Charly Pecqueux--Guézénec
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Research: "research"
   Projects: "projets"
   About Me: "aboutme"
  # Resources:
