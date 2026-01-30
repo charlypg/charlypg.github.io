@@ -24,6 +24,11 @@ navbar-links:
  #   - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
 
+collections:
+  teaching:
+    output: true
+
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
