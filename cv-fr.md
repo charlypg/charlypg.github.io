@@ -1,8 +1,9 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
+permalink: /cv-fr/
 ---
 
-## *Curriculum Vitae*
+## Curriculum Vitae
 
-
+(Contenu du CV en français ici)
