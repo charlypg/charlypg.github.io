@@ -20,6 +20,9 @@ author: Some Person
 ###############################################
 
 navbar-links:
+  Research: "research"
+  Teaching: "teaching"
+  Projects: "projects"
   CV:
     - 🇬🇧: cv-en
     - 🇫🇷: cv-fr
@@ -30,6 +33,9 @@ navbar-links:
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
+collections:
+  teaching:
+    output: true
 
 ################
 # --- Logo --- #
