@@ -21,8 +21,8 @@ author: Some Person
 
 navbar-links:
   CV:
-    - English CV: cv-en
-    - CV Français: cv-fr
+    - 🇬🇧: cv-en
+    - 🇫🇷: cv-fr
   # # Original:
   # About Me: "aboutme"
   # Resources:
