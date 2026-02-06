@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Python interface for Robot Web Services
-tags: [robotics]
+tags: [robotics,webservices]
 thumbnail-img: /assets/img/yumi_hand.jpg
 date: 2021-10-19
 ---
