@@ -81,4 +81,6 @@ permalink: /cv-fr/
 
 ## Langues
 
-Français, Anglais (IELTS 7/9 C1), Espagnol (un poco)
+* Français
+* Anglais (IELTS 7/9 C1)
+* Espagnol (*un poco*)
