@@ -10,6 +10,8 @@ permalink: /cv-fr/
 
 * **Unsupervised Discovery of Safe Skills for Robotics**. Charly Pecqueux-Guézénec, Nicolas Perrin-Gilbert, Stéphane Doncieux. *IMOL 2023*, Paris, France, September 13 – 15, 2023. (Poster)
 
+***
+
 ## Enseignement
 
 ### Agrégé de SII option Informatique
@@ -52,6 +54,8 @@ permalink: /cv-fr/
 * 2019-2020
 * IUT de Cachan, FRANCE
 
+***
+
 ## Formation
 
 * 2022 à 2026: Doctorat à Sorbonne Université, Paris, France
@@ -65,11 +69,15 @@ permalink: /cv-fr/
     * TIPE: Les bases de Gröbner appliquées à la robotique
 
 
+***
+
 ## Stages
 
 * 2022: **Apprentissage en robotique: Construction d’espaces d’état et acquisition de comportements**. ISIR, Sorbonne Université, Paris
 
 * 2020: **Modèles stigmergiques pour la robotique en essaim**. TU Delft, Pays-Bas. *télétravail (COVID)*
+
+***
 
 ## Langues
 
