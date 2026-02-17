@@ -22,6 +22,7 @@ permalink: /cv-en/
 * Formative assessments
 * Summative assessments 
     * Conception of a C language exam
+    * Conception of a deep RL practical for beginners (designed for Cognitive Science MSc: COGSUP) [[GitHub link here](https://github.com/charlypg/DQN-practical/)]
 
 #### MSc
 * Models, Probabilistic Algorithms and Statistics (CS)

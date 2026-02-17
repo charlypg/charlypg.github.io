@@ -29,6 +29,7 @@ permalink: /cv-fr/
 * Apprentissage et Robotique (M1 info)
 * IA pour la robotique (M2 robotique)
 * Advanced reinforcement learning applied to Cognitive Science (M2 Cogsup)
+    * ***Conception d'un sujet de TP pour débutants en deep RL*** [[GitHub](https://github.com/charlypg/DQN-practical/)]
 
 #### Licence
 
